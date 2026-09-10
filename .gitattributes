@@ -3,3 +3,6 @@ main/boards/* merge=ours
 
 # DAR permite actualizarea folderului common
 main/boards/common/* merge=union
+
+# Ignoră TOT ce e în boards (păstrează versiunea ta)
+main/assets/* merge=ours
